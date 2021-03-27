@@ -24,3 +24,4 @@ Unutar repozitorija se nalazi:
   Model baze podataka je napravljen za predstavljanje ideje realizacije našeg rješenja.
 
 -----------
+U repozitorij smo uključili i prezentaciju i video za svaki slučaj.
